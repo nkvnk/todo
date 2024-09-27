@@ -1,3 +1,4 @@
+"use client";
 import { deleteTodo } from "@/utils/supabaseFunction";
 import React from "react";
 
