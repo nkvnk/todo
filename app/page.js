@@ -109,7 +109,6 @@ export default function Home() {
           </thead>
           <tbody>
             <Todo todos={todos} setTodos={setTodos} notifys={notifys} />
-            <Todo /> <Todo />
           </tbody>
         </table>
       </div>
